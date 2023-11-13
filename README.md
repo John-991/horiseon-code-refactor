@@ -47,7 +47,7 @@ git push *
 Upload index.html, license.txt, and assets folder to the deployed webserver. The assets folder contains images and CSS files.
 
 The deployed website linked was deployed using GitHub Pages.
-Link to the deployed website
+[Link to the deployed website](https://john-991.github.io/horiseon-code-refactor/)
 
 ## Usage 
 
