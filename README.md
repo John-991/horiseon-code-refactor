@@ -38,7 +38,6 @@ The deployed website linked was deployed using GitHub Pages.
 
 ## Usage 
 
-### Running the Project on github
 It it not yet optimized for smaller screens.
 [html link](starter/index.html)
 ![Project Logo](starter/assets/images/screenshot.jpg)
