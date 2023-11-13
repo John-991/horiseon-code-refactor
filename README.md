@@ -31,19 +31,6 @@ Enhancements Implemented:
 
 ## Installation
 
-Clone the repository from GitHub:
-git clone + repo link
-cd horiseon-code-refactor
-
-Make changes and commit them:
-
-git add .
-git commit -m
-
-Push your changes to  GitHub repository:
-
-git push *
-
 Upload index.html, license.txt, and assets folder to the deployed webserver. The assets folder contains images and CSS files.
 
 The deployed website linked was deployed using GitHub Pages.
