@@ -3,7 +3,7 @@
 ## Description 
 The Horiseon Code Refactor Template is a static webpage offered by Horiseon. I aimed to improve my HTML and CSS skills and create a accessible design. The project stands out with its clean layout, semantic HTML, and visually engaging styling.
 
-Enhancements Implemented:
+##  Enhancements Implemented:
 
 1. **Redundant Classes Consolidated:**
    - Removed redundant classes to streamline the CSS code and improve maintainability.
@@ -21,7 +21,7 @@ Enhancements Implemented:
    - Restructured the CSS code to follow a logical and organized layout for easier readability and maintenance.
 
 6. **Separation of Classes and Elements:**
-   - Separated CSS classes and elements, organizing them alphabetically within each group for a systematic arrangement.
+   - Separated CSS classes and elements, organizing them .
 
 7. **Comments for Code Sections:**
    - Added comments in the CSS file to delineate each section, making it easier to navigate and understand the purpose of specific code blocks.
@@ -31,23 +31,10 @@ Enhancements Implemented:
 
 ## Installation
 
-Clone the repository from GitHub:
-git clone + repo link
-cd horiseon-code-refactor
-
-Make changes and commit them:
-
-git add .
-git commit -m
-
-Push your changes to  GitHub repository:
-
-git push *
-
 Upload index.html, license.txt, and assets folder to the deployed webserver. The assets folder contains images and CSS files.
 
 The deployed website linked was deployed using GitHub Pages.
-Link to the deployed website
+[Link to the deployed website](https://john-991.github.io/horiseon-code-refactor/)
 
 ## Usage 
 
@@ -66,7 +53,7 @@ Engaging images to complement the content.
 
 ## Credits
 
-Collaborators on this project included instructional staff, TAs, and students in the EDX Boot Camp 2023 cohort. 
+Collaborators on this project included staff, TAs, and students in the EDX Boot Camp 2023 cohort. 
 
 ## License
 
