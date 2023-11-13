@@ -53,7 +53,7 @@ Engaging images to complement the content.
 
 ## Credits
 
-Collaborators on this project included instructional staff, TAs, and students in the EDX Boot Camp 2023 cohort. 
+Collaborators on this project included staff, TAs, and students in the EDX Boot Camp 2023 cohort. 
 
 ## License
 
