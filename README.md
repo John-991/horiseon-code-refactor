@@ -3,7 +3,7 @@
 ## Description 
 The Horiseon Code Refactor Template is a static webpage offered by Horiseon. I aimed to improve my HTML and CSS skills and create a accessible design. The project stands out with its clean layout, semantic HTML, and visually engaging styling.
 
-# Enhancements Implemented:
+##  Enhancements Implemented:
 
 1. **Redundant Classes Consolidated:**
    - Removed redundant classes to streamline the CSS code and improve maintainability.
