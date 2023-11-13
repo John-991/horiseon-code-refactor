@@ -52,8 +52,10 @@ Link to the deployed website
 ## Usage 
 
 ### Running the Project on github
-html link : 
-Screenshot link : 
+It it not yet optimized for smaller screens.
+[html link](starter/index.html)
+![Project Logo](starter/assets/images/screenshot.jpg)
+
 
 
 ## Features
