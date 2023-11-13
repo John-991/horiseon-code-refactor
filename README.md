@@ -21,7 +21,7 @@ Enhancements Implemented:
    - Restructured the CSS code to follow a logical and organized layout for easier readability and maintenance.
 
 6. **Separation of Classes and Elements:**
-   - Separated CSS classes and elements, organizing them alphabetically within each group for a systematic arrangement.
+   - Separated CSS classes and elements, organizing them .
 
 7. **Comments for Code Sections:**
    - Added comments in the CSS file to delineate each section, making it easier to navigate and understand the purpose of specific code blocks.
